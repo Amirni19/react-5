@@ -1,0 +1,7 @@
+.catalog_grid {
+    margin-top: 10px;
+    display: grid;
+    grid-template-columns: repeat(3, 420px);
+    justify-content: space-between;
+    row-gap: 40px;
+}
